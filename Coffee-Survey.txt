@@ -1,0 +1,19 @@
+Coffee Survey Questions
+
+Q1: Do you Drink Coffee Daily?
+A: Binary Y/N
+
+Q2: How many cups (250ml) of coffee per day do you drink on average?
+A: Number entry field
+
+Q3: Do you drink coffee in the morning? (6AM-Noon)
+A: Binary Y/N
+
+Q4: Do you drink coffee in the middle of the day? (Noon-6PM)
+A: Binary Y/N
+
+Q5: Do you drink coffee in the evening? (6PM-Midnight)
+A: Binary Y/N
+
+Q6: Do you drink coffee at night? (Midnight-6AM)
+A: Binary Y/N
