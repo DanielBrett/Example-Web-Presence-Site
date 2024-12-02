@@ -1,0 +1,1 @@
+To include images from this folder in the README file or any other markdown file in this repository, you will need to use the full path to the file using the format of **Survey-Visualizations/FILENAME.EXTENSION**.  An example of this would look like **Survey-Visualizations/coffee-results.jpg**.
