@@ -18,7 +18,7 @@ The initial study included a survey (Coffee-Survey.txt) to researchers at Brock 
 
 A paper was written on the results comparing findings with expectations.  The paper was the published in The Journal Of Cool Things and a copy of the accepted version of the article is available in this repository.
 
-[Link to Published Version](www.Fakelink.com)
+[Link to Published Version](https://danielbrett.github.io/Totally-Real-Journal-Of-Cool-Things/)
 
 ## Replication
 
