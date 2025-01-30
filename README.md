@@ -1,5 +1,5 @@
 # Coffee: A Researchers Best Friend
-![A picture of a latte in a cup on a table](coffee.jpg)
+![A picture of a latte in a cup on a table](coffee-banner.jpg)
 
 A collection of files and processes related to Daniel Bretts study of the percieved effects of coffee when consumed at different times of day.
 
